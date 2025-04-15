@@ -1,2 +1,2 @@
 # delta-damo
-This is a damo for git and github class.
+This is a damo for git & github class.
